@@ -20,6 +20,7 @@ gem 'active_model_serializers'
 gem 'knock'
 gem 'rack-attack'
 gem 'nokogiri'
+gem 'devise'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
