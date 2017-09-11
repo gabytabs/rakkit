@@ -28,7 +28,6 @@ group :development, :test do
   gem 'faker'
   gem 'pry-rails'
   gem 'rb-readline'
-
 end
 
 group :development do
